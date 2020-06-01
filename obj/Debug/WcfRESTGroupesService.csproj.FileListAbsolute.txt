@@ -1,0 +1,40 @@
+D:\BdeB\session 04\A15-DÉVELOPPEMENT D'APPLICATIONS ORIENTÉES\TP02\WcfRESTGroupesService\WcfRESTGroupesService\bin\WcfRESTGroupesService.dll.config
+D:\BdeB\session 04\A15-DÉVELOPPEMENT D'APPLICATIONS ORIENTÉES\TP02\WcfRESTGroupesService\WcfRESTGroupesService\bin\WcfRESTGroupesService.dll
+D:\BdeB\session 04\A15-DÉVELOPPEMENT D'APPLICATIONS ORIENTÉES\TP02\WcfRESTGroupesService\WcfRESTGroupesService\bin\WcfRESTGroupesService.pdb
+D:\BdeB\session 04\A15-DÉVELOPPEMENT D'APPLICATIONS ORIENTÉES\TP02\WcfRESTGroupesService\WcfRESTGroupesService\obj\Debug\WcfRESTGroupesService.csprojAssemblyReference.cache
+D:\BdeB\session 04\A15-DÉVELOPPEMENT D'APPLICATIONS ORIENTÉES\TP02\WcfRESTGroupesService\WcfRESTGroupesService\obj\Debug\WcfRESTGroupesService.csproj.CoreCompileInputs.cache
+D:\BdeB\session 04\A15-DÉVELOPPEMENT D'APPLICATIONS ORIENTÉES\TP02\WcfRESTGroupesService\WcfRESTGroupesService\obj\Debug\WcfRESTGroupesService.dll
+D:\BdeB\session 04\A15-DÉVELOPPEMENT D'APPLICATIONS ORIENTÉES\TP02\WcfRESTGroupesService\WcfRESTGroupesService\obj\Debug\WcfRESTGroupesService.pdb
+D:\BdeB\session 04\A15-DÉVELOPPEMENT D'APPLICATIONS ORIENTÉES\TP02\WcfRESTGroupesService\WcfRESTGroupesService\obj\Debug\WcfRESTGroupesService.csproj.CopyComplete
+D:\BdeB\session 04\A15-DÉVELOPPEMENT D'APPLICATIONS ORIENTÉES\TP02\WcfRESTGroupesService\WcfRESTGroupesService\bin\mysql.data.dll
+D:\BdeB\session 04\A15-DÉVELOPPEMENT D'APPLICATIONS ORIENTÉES\TP02\WcfRESTGroupesService\WcfRESTGroupesService\bin\mysql.data.xml
+D:\BdeB\session04\A15-DÉVELOPPEMENT D'APPLICATIONS ORIENTÉES\TP02\WcfRESTGroupesService\WcfRESTGroupesService\bin\WcfRESTGroupesService.dll.config
+D:\BdeB\session04\A15-DÉVELOPPEMENT D'APPLICATIONS ORIENTÉES\TP02\WcfRESTGroupesService\WcfRESTGroupesService\bin\WcfRESTGroupesService.dll
+D:\BdeB\session04\A15-DÉVELOPPEMENT D'APPLICATIONS ORIENTÉES\TP02\WcfRESTGroupesService\WcfRESTGroupesService\bin\WcfRESTGroupesService.pdb
+D:\BdeB\session04\A15-DÉVELOPPEMENT D'APPLICATIONS ORIENTÉES\TP02\WcfRESTGroupesService\WcfRESTGroupesService\bin\mysql.data.dll
+D:\BdeB\session04\A15-DÉVELOPPEMENT D'APPLICATIONS ORIENTÉES\TP02\WcfRESTGroupesService\WcfRESTGroupesService\bin\mysql.data.xml
+D:\BdeB\session04\A15-DÉVELOPPEMENT D'APPLICATIONS ORIENTÉES\TP02\WcfRESTGroupesService\WcfRESTGroupesService\obj\Debug\WcfRESTGroupesService.csprojAssemblyReference.cache
+D:\BdeB\session04\A15-DÉVELOPPEMENT D'APPLICATIONS ORIENTÉES\TP02\WcfRESTGroupesService\WcfRESTGroupesService\obj\Debug\WcfRESTGroupesService.csproj.CoreCompileInputs.cache
+D:\BdeB\session04\A15-DÉVELOPPEMENT D'APPLICATIONS ORIENTÉES\TP02\WcfRESTGroupesService\WcfRESTGroupesService\obj\Debug\WcfRESTGroupesService.csproj.CopyComplete
+D:\BdeB\session04\A15-DÉVELOPPEMENT D'APPLICATIONS ORIENTÉES\TP02\WcfRESTGroupesService\WcfRESTGroupesService\obj\Debug\WcfRESTGroupesService.dll
+D:\BdeB\session04\A15-DÉVELOPPEMENT D'APPLICATIONS ORIENTÉES\TP02\WcfRESTGroupesService\WcfRESTGroupesService\obj\Debug\WcfRESTGroupesService.pdb
+D:\BdeB\session04\A16-PROGRAMMATION D'APPLICATIONS WEB\projetSession\partie02\WcfRESTGroupesService\bin\WcfRESTGroupesService.dll.config
+D:\BdeB\session04\A16-PROGRAMMATION D'APPLICATIONS WEB\projetSession\partie02\WcfRESTGroupesService\bin\WcfRESTGroupesService.dll
+D:\BdeB\session04\A16-PROGRAMMATION D'APPLICATIONS WEB\projetSession\partie02\WcfRESTGroupesService\bin\WcfRESTGroupesService.pdb
+D:\BdeB\session04\A16-PROGRAMMATION D'APPLICATIONS WEB\projetSession\partie02\WcfRESTGroupesService\bin\mysql.data.dll
+D:\BdeB\session04\A16-PROGRAMMATION D'APPLICATIONS WEB\projetSession\partie02\WcfRESTGroupesService\bin\mysql.data.xml
+D:\BdeB\session04\A16-PROGRAMMATION D'APPLICATIONS WEB\projetSession\partie02\WcfRESTGroupesService\obj\Debug\WcfRESTGroupesService.csprojAssemblyReference.cache
+D:\BdeB\session04\A16-PROGRAMMATION D'APPLICATIONS WEB\projetSession\partie02\WcfRESTGroupesService\obj\Debug\WcfRESTGroupesService.csproj.CoreCompileInputs.cache
+D:\BdeB\session04\A16-PROGRAMMATION D'APPLICATIONS WEB\projetSession\partie02\WcfRESTGroupesService\obj\Debug\WcfRESTGroupesService.csproj.CopyComplete
+D:\BdeB\session04\A16-PROGRAMMATION D'APPLICATIONS WEB\projetSession\partie02\WcfRESTGroupesService\obj\Debug\WcfRESTGroupesService.dll
+D:\BdeB\session04\A16-PROGRAMMATION D'APPLICATIONS WEB\projetSession\partie02\WcfRESTGroupesService\obj\Debug\WcfRESTGroupesService.pdb
+D:\BdeB\session04\A16-PROGRAMMATION D'APPLICATIONS WEB\projetSession\option 02\WcfRESTGroupesService\bin\WcfRESTGroupesService.dll.config
+D:\BdeB\session04\A16-PROGRAMMATION D'APPLICATIONS WEB\projetSession\option 02\WcfRESTGroupesService\bin\WcfRESTGroupesService.dll
+D:\BdeB\session04\A16-PROGRAMMATION D'APPLICATIONS WEB\projetSession\option 02\WcfRESTGroupesService\bin\WcfRESTGroupesService.pdb
+D:\BdeB\session04\A16-PROGRAMMATION D'APPLICATIONS WEB\projetSession\option 02\WcfRESTGroupesService\bin\mysql.data.dll
+D:\BdeB\session04\A16-PROGRAMMATION D'APPLICATIONS WEB\projetSession\option 02\WcfRESTGroupesService\bin\mysql.data.xml
+D:\BdeB\session04\A16-PROGRAMMATION D'APPLICATIONS WEB\projetSession\option 02\WcfRESTGroupesService\obj\Debug\WcfRESTGroupesService.csprojAssemblyReference.cache
+D:\BdeB\session04\A16-PROGRAMMATION D'APPLICATIONS WEB\projetSession\option 02\WcfRESTGroupesService\obj\Debug\WcfRESTGroupesService.csproj.CoreCompileInputs.cache
+D:\BdeB\session04\A16-PROGRAMMATION D'APPLICATIONS WEB\projetSession\option 02\WcfRESTGroupesService\obj\Debug\WcfRESTGroupesService.csproj.CopyComplete
+D:\BdeB\session04\A16-PROGRAMMATION D'APPLICATIONS WEB\projetSession\option 02\WcfRESTGroupesService\obj\Debug\WcfRESTGroupesService.dll
+D:\BdeB\session04\A16-PROGRAMMATION D'APPLICATIONS WEB\projetSession\option 02\WcfRESTGroupesService\obj\Debug\WcfRESTGroupesService.pdb
