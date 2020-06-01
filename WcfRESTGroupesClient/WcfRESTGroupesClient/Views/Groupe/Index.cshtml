@@ -1,0 +1,45 @@
+﻿@model IEnumerable<WcfRESTGroupesClient.Models.Groupe>
+
+@{
+    ViewData["Title"] = "Index";
+}
+
+<h2 align="center">Liste des Groupes</h2>
+
+@*<p>
+    <a asp-action="Create">Ajouter un groupe</a>
+</p>*@
+<table class="table">
+    <thead>
+        <tr>
+            <th>
+                @Html.DisplayNameFor(model => model.nomGroupe)
+            </th>
+            @*<th>
+                @Html.DisplayNameFor(model => model.admin)
+            </th>*@
+            <th></th>
+        </tr>
+    </thead>
+    <tbody>
+@foreach (var item in Model) {
+        <tr>
+            <td>
+                @Html.DisplayFor(modelItem => item.nomGroupe)
+            </td>
+            @*<td>
+                @Html.DisplayFor(modelItem => item.admin)
+            </td>*@
+            @*<td>
+                @Html.ActionLink("Edit", "Edit", new { /* id=item.PrimaryKey */ }) |
+                @Html.ActionLink("Adhesion", "Adhesion", new { nomGroupe = item.nomGroupe }) |
+                @Html.ActionLink("Delete", "Delete", new { /* id=item.PrimaryKey */ })
+            </td>*@
+        </tr>
+}
+    </tbody>
+</table>
+<p>
+    <a asp-controller="Home" asp-action="Index" class="btn btn-primary">Retour au menu principal </a><br>
+    @*<a asp-controller="Home" asp-action="Index">Retour au menu principal</a>*@
+</p>

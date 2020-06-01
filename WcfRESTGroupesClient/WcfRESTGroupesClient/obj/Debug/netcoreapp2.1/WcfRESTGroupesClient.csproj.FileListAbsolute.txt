@@ -1,0 +1,118 @@
+D:\BdeB\session 04\A15-DÉVELOPPEMENT D'APPLICATIONS ORIENTÉES\TP02\WcfRESTGroupesClient\WcfRESTGroupesClient\bin\Debug\netcoreapp2.1\WcfRESTGroupesClient.deps.json
+D:\BdeB\session 04\A15-DÉVELOPPEMENT D'APPLICATIONS ORIENTÉES\TP02\WcfRESTGroupesClient\WcfRESTGroupesClient\bin\Debug\netcoreapp2.1\WcfRESTGroupesClient.runtimeconfig.json
+D:\BdeB\session 04\A15-DÉVELOPPEMENT D'APPLICATIONS ORIENTÉES\TP02\WcfRESTGroupesClient\WcfRESTGroupesClient\bin\Debug\netcoreapp2.1\WcfRESTGroupesClient.runtimeconfig.dev.json
+D:\BdeB\session 04\A15-DÉVELOPPEMENT D'APPLICATIONS ORIENTÉES\TP02\WcfRESTGroupesClient\WcfRESTGroupesClient\bin\Debug\netcoreapp2.1\WcfRESTGroupesClient.dll
+D:\BdeB\session 04\A15-DÉVELOPPEMENT D'APPLICATIONS ORIENTÉES\TP02\WcfRESTGroupesClient\WcfRESTGroupesClient\bin\Debug\netcoreapp2.1\WcfRESTGroupesClient.pdb
+D:\BdeB\session 04\A15-DÉVELOPPEMENT D'APPLICATIONS ORIENTÉES\TP02\WcfRESTGroupesClient\WcfRESTGroupesClient\bin\Debug\netcoreapp2.1\WcfRESTGroupesClient.Views.dll
+D:\BdeB\session 04\A15-DÉVELOPPEMENT D'APPLICATIONS ORIENTÉES\TP02\WcfRESTGroupesClient\WcfRESTGroupesClient\bin\Debug\netcoreapp2.1\WcfRESTGroupesClient.Views.pdb
+D:\BdeB\session 04\A15-DÉVELOPPEMENT D'APPLICATIONS ORIENTÉES\TP02\WcfRESTGroupesClient\WcfRESTGroupesClient\obj\Debug\netcoreapp2.1\WcfRESTGroupesClient.csprojAssemblyReference.cache
+D:\BdeB\session 04\A15-DÉVELOPPEMENT D'APPLICATIONS ORIENTÉES\TP02\WcfRESTGroupesClient\WcfRESTGroupesClient\obj\Debug\netcoreapp2.1\WcfRESTGroupesClient.csproj.CoreCompileInputs.cache
+D:\BdeB\session 04\A15-DÉVELOPPEMENT D'APPLICATIONS ORIENTÉES\TP02\WcfRESTGroupesClient\WcfRESTGroupesClient\obj\Debug\netcoreapp2.1\WcfRESTGroupesClient.RazorAssemblyInfo.cache
+D:\BdeB\session 04\A15-DÉVELOPPEMENT D'APPLICATIONS ORIENTÉES\TP02\WcfRESTGroupesClient\WcfRESTGroupesClient\obj\Debug\netcoreapp2.1\WcfRESTGroupesClient.RazorAssemblyInfo.cs
+D:\BdeB\session 04\A15-DÉVELOPPEMENT D'APPLICATIONS ORIENTÉES\TP02\WcfRESTGroupesClient\WcfRESTGroupesClient\obj\Debug\netcoreapp2.1\WcfRESTGroupesClient.AssemblyInfoInputs.cache
+D:\BdeB\session 04\A15-DÉVELOPPEMENT D'APPLICATIONS ORIENTÉES\TP02\WcfRESTGroupesClient\WcfRESTGroupesClient\obj\Debug\netcoreapp2.1\WcfRESTGroupesClient.AssemblyInfo.cs
+D:\BdeB\session 04\A15-DÉVELOPPEMENT D'APPLICATIONS ORIENTÉES\TP02\WcfRESTGroupesClient\WcfRESTGroupesClient\obj\Debug\netcoreapp2.1\WcfRESTGroupesClient.TagHelpers.input.cache
+D:\BdeB\session 04\A15-DÉVELOPPEMENT D'APPLICATIONS ORIENTÉES\TP02\WcfRESTGroupesClient\WcfRESTGroupesClient\obj\Debug\netcoreapp2.1\WcfRESTGroupesClient.TagHelpers.output.cache
+D:\BdeB\session 04\A15-DÉVELOPPEMENT D'APPLICATIONS ORIENTÉES\TP02\WcfRESTGroupesClient\WcfRESTGroupesClient\obj\Debug\netcoreapp2.1\WcfRESTGroupesClient.RazorCoreGenerate.cache
+D:\BdeB\session 04\A15-DÉVELOPPEMENT D'APPLICATIONS ORIENTÉES\TP02\WcfRESTGroupesClient\WcfRESTGroupesClient\obj\Debug\netcoreapp2.1\Razor\Views\Home\About.g.cshtml.cs
+D:\BdeB\session 04\A15-DÉVELOPPEMENT D'APPLICATIONS ORIENTÉES\TP02\WcfRESTGroupesClient\WcfRESTGroupesClient\obj\Debug\netcoreapp2.1\Razor\Views\Home\Contact.g.cshtml.cs
+D:\BdeB\session 04\A15-DÉVELOPPEMENT D'APPLICATIONS ORIENTÉES\TP02\WcfRESTGroupesClient\WcfRESTGroupesClient\obj\Debug\netcoreapp2.1\Razor\Views\Home\Index.g.cshtml.cs
+D:\BdeB\session 04\A15-DÉVELOPPEMENT D'APPLICATIONS ORIENTÉES\TP02\WcfRESTGroupesClient\WcfRESTGroupesClient\obj\Debug\netcoreapp2.1\Razor\Views\Home\Privacy.g.cshtml.cs
+D:\BdeB\session 04\A15-DÉVELOPPEMENT D'APPLICATIONS ORIENTÉES\TP02\WcfRESTGroupesClient\WcfRESTGroupesClient\obj\Debug\netcoreapp2.1\Razor\Views\Shared\Error.g.cshtml.cs
+D:\BdeB\session 04\A15-DÉVELOPPEMENT D'APPLICATIONS ORIENTÉES\TP02\WcfRESTGroupesClient\WcfRESTGroupesClient\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_CookieConsentPartial.g.cshtml.cs
+D:\BdeB\session 04\A15-DÉVELOPPEMENT D'APPLICATIONS ORIENTÉES\TP02\WcfRESTGroupesClient\WcfRESTGroupesClient\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_Layout.g.cshtml.cs
+D:\BdeB\session 04\A15-DÉVELOPPEMENT D'APPLICATIONS ORIENTÉES\TP02\WcfRESTGroupesClient\WcfRESTGroupesClient\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_ValidationScriptsPartial.g.cshtml.cs
+D:\BdeB\session 04\A15-DÉVELOPPEMENT D'APPLICATIONS ORIENTÉES\TP02\WcfRESTGroupesClient\WcfRESTGroupesClient\obj\Debug\netcoreapp2.1\Razor\Views\_ViewImports.g.cshtml.cs
+D:\BdeB\session 04\A15-DÉVELOPPEMENT D'APPLICATIONS ORIENTÉES\TP02\WcfRESTGroupesClient\WcfRESTGroupesClient\obj\Debug\netcoreapp2.1\Razor\Views\_ViewStart.g.cshtml.cs
+D:\BdeB\session 04\A15-DÉVELOPPEMENT D'APPLICATIONS ORIENTÉES\TP02\WcfRESTGroupesClient\WcfRESTGroupesClient\obj\Debug\netcoreapp2.1\WcfRESTGroupesClient.RazorTargetAssemblyInfo.cache
+D:\BdeB\session 04\A15-DÉVELOPPEMENT D'APPLICATIONS ORIENTÉES\TP02\WcfRESTGroupesClient\WcfRESTGroupesClient\obj\Debug\netcoreapp2.1\WcfRESTGroupesClient.RazorTargetAssemblyInfo.cs
+D:\BdeB\session 04\A15-DÉVELOPPEMENT D'APPLICATIONS ORIENTÉES\TP02\WcfRESTGroupesClient\WcfRESTGroupesClient\obj\Debug\netcoreapp2.1\WcfRESTGroupesClient.Views.pdb
+D:\BdeB\session 04\A15-DÉVELOPPEMENT D'APPLICATIONS ORIENTÉES\TP02\WcfRESTGroupesClient\WcfRESTGroupesClient\obj\Debug\netcoreapp2.1\WcfRESTGroupesClient.dll
+D:\BdeB\session 04\A15-DÉVELOPPEMENT D'APPLICATIONS ORIENTÉES\TP02\WcfRESTGroupesClient\WcfRESTGroupesClient\obj\Debug\netcoreapp2.1\WcfRESTGroupesClient.pdb
+D:\BdeB\session 04\A15-DÉVELOPPEMENT D'APPLICATIONS ORIENTÉES\TP02\WcfRESTGroupesClient\WcfRESTGroupesClient\obj\Debug\netcoreapp2.1\WcfRESTGroupesClient.csproj.CopyComplete
+D:\BdeB\session 04\A15-DÉVELOPPEMENT D'APPLICATIONS ORIENTÉES\TP02\WcfRESTGroupesClient\WcfRESTGroupesClient\obj\Debug\netcoreapp2.1\Razor\Views\Groupe\Index.g.cshtml.cs
+D:\BdeB\session 04\A15-DÉVELOPPEMENT D'APPLICATIONS ORIENTÉES\TP02\WcfRESTGroupesClient\WcfRESTGroupesClient\obj\Debug\netcoreapp2.1\Razor\Views\Groupe\Details.g.cshtml.cs
+D:\BdeB\session04\A16-PROGRAMMATION D'APPLICATIONS WEB\projetSession\partie02\WcfRESTGroupesClient\WcfRESTGroupesClient\bin\Debug\netcoreapp2.1\WcfRESTGroupesClient.deps.json
+D:\BdeB\session04\A16-PROGRAMMATION D'APPLICATIONS WEB\projetSession\partie02\WcfRESTGroupesClient\WcfRESTGroupesClient\bin\Debug\netcoreapp2.1\WcfRESTGroupesClient.runtimeconfig.json
+D:\BdeB\session04\A16-PROGRAMMATION D'APPLICATIONS WEB\projetSession\partie02\WcfRESTGroupesClient\WcfRESTGroupesClient\bin\Debug\netcoreapp2.1\WcfRESTGroupesClient.runtimeconfig.dev.json
+D:\BdeB\session04\A16-PROGRAMMATION D'APPLICATIONS WEB\projetSession\partie02\WcfRESTGroupesClient\WcfRESTGroupesClient\bin\Debug\netcoreapp2.1\WcfRESTGroupesClient.dll
+D:\BdeB\session04\A16-PROGRAMMATION D'APPLICATIONS WEB\projetSession\partie02\WcfRESTGroupesClient\WcfRESTGroupesClient\bin\Debug\netcoreapp2.1\WcfRESTGroupesClient.pdb
+D:\BdeB\session04\A16-PROGRAMMATION D'APPLICATIONS WEB\projetSession\partie02\WcfRESTGroupesClient\WcfRESTGroupesClient\bin\Debug\netcoreapp2.1\WcfRESTGroupesClient.Views.dll
+D:\BdeB\session04\A16-PROGRAMMATION D'APPLICATIONS WEB\projetSession\partie02\WcfRESTGroupesClient\WcfRESTGroupesClient\bin\Debug\netcoreapp2.1\WcfRESTGroupesClient.Views.pdb
+D:\BdeB\session04\A16-PROGRAMMATION D'APPLICATIONS WEB\projetSession\partie02\WcfRESTGroupesClient\WcfRESTGroupesClient\obj\Debug\netcoreapp2.1\WcfRESTGroupesClient.csprojAssemblyReference.cache
+D:\BdeB\session04\A16-PROGRAMMATION D'APPLICATIONS WEB\projetSession\partie02\WcfRESTGroupesClient\WcfRESTGroupesClient\obj\Debug\netcoreapp2.1\WcfRESTGroupesClient.csproj.CoreCompileInputs.cache
+D:\BdeB\session04\A16-PROGRAMMATION D'APPLICATIONS WEB\projetSession\partie02\WcfRESTGroupesClient\WcfRESTGroupesClient\obj\Debug\netcoreapp2.1\WcfRESTGroupesClient.RazorAssemblyInfo.cache
+D:\BdeB\session04\A16-PROGRAMMATION D'APPLICATIONS WEB\projetSession\partie02\WcfRESTGroupesClient\WcfRESTGroupesClient\obj\Debug\netcoreapp2.1\WcfRESTGroupesClient.RazorAssemblyInfo.cs
+D:\BdeB\session04\A16-PROGRAMMATION D'APPLICATIONS WEB\projetSession\partie02\WcfRESTGroupesClient\WcfRESTGroupesClient\obj\Debug\netcoreapp2.1\WcfRESTGroupesClient.AssemblyInfoInputs.cache
+D:\BdeB\session04\A16-PROGRAMMATION D'APPLICATIONS WEB\projetSession\partie02\WcfRESTGroupesClient\WcfRESTGroupesClient\obj\Debug\netcoreapp2.1\WcfRESTGroupesClient.AssemblyInfo.cs
+D:\BdeB\session04\A16-PROGRAMMATION D'APPLICATIONS WEB\projetSession\partie02\WcfRESTGroupesClient\WcfRESTGroupesClient\obj\Debug\netcoreapp2.1\WcfRESTGroupesClient.TagHelpers.input.cache
+D:\BdeB\session04\A16-PROGRAMMATION D'APPLICATIONS WEB\projetSession\partie02\WcfRESTGroupesClient\WcfRESTGroupesClient\obj\Debug\netcoreapp2.1\WcfRESTGroupesClient.TagHelpers.output.cache
+D:\BdeB\session04\A16-PROGRAMMATION D'APPLICATIONS WEB\projetSession\partie02\WcfRESTGroupesClient\WcfRESTGroupesClient\obj\Debug\netcoreapp2.1\WcfRESTGroupesClient.RazorCoreGenerate.cache
+D:\BdeB\session04\A16-PROGRAMMATION D'APPLICATIONS WEB\projetSession\partie02\WcfRESTGroupesClient\WcfRESTGroupesClient\obj\Debug\netcoreapp2.1\Razor\Views\Groupe\Details.g.cshtml.cs
+D:\BdeB\session04\A16-PROGRAMMATION D'APPLICATIONS WEB\projetSession\partie02\WcfRESTGroupesClient\WcfRESTGroupesClient\obj\Debug\netcoreapp2.1\Razor\Views\Home\About.g.cshtml.cs
+D:\BdeB\session04\A16-PROGRAMMATION D'APPLICATIONS WEB\projetSession\partie02\WcfRESTGroupesClient\WcfRESTGroupesClient\obj\Debug\netcoreapp2.1\Razor\Views\Home\Contact.g.cshtml.cs
+D:\BdeB\session04\A16-PROGRAMMATION D'APPLICATIONS WEB\projetSession\partie02\WcfRESTGroupesClient\WcfRESTGroupesClient\obj\Debug\netcoreapp2.1\Razor\Views\Home\Index.g.cshtml.cs
+D:\BdeB\session04\A16-PROGRAMMATION D'APPLICATIONS WEB\projetSession\partie02\WcfRESTGroupesClient\WcfRESTGroupesClient\obj\Debug\netcoreapp2.1\Razor\Views\Home\Privacy.g.cshtml.cs
+D:\BdeB\session04\A16-PROGRAMMATION D'APPLICATIONS WEB\projetSession\partie02\WcfRESTGroupesClient\WcfRESTGroupesClient\obj\Debug\netcoreapp2.1\Razor\Views\Shared\Error.g.cshtml.cs
+D:\BdeB\session04\A16-PROGRAMMATION D'APPLICATIONS WEB\projetSession\partie02\WcfRESTGroupesClient\WcfRESTGroupesClient\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_CookieConsentPartial.g.cshtml.cs
+D:\BdeB\session04\A16-PROGRAMMATION D'APPLICATIONS WEB\projetSession\partie02\WcfRESTGroupesClient\WcfRESTGroupesClient\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_Layout.g.cshtml.cs
+D:\BdeB\session04\A16-PROGRAMMATION D'APPLICATIONS WEB\projetSession\partie02\WcfRESTGroupesClient\WcfRESTGroupesClient\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_ValidationScriptsPartial.g.cshtml.cs
+D:\BdeB\session04\A16-PROGRAMMATION D'APPLICATIONS WEB\projetSession\partie02\WcfRESTGroupesClient\WcfRESTGroupesClient\obj\Debug\netcoreapp2.1\Razor\Views\_ViewImports.g.cshtml.cs
+D:\BdeB\session04\A16-PROGRAMMATION D'APPLICATIONS WEB\projetSession\partie02\WcfRESTGroupesClient\WcfRESTGroupesClient\obj\Debug\netcoreapp2.1\Razor\Views\_ViewStart.g.cshtml.cs
+D:\BdeB\session04\A16-PROGRAMMATION D'APPLICATIONS WEB\projetSession\partie02\WcfRESTGroupesClient\WcfRESTGroupesClient\obj\Debug\netcoreapp2.1\WcfRESTGroupesClient.RazorTargetAssemblyInfo.cache
+D:\BdeB\session04\A16-PROGRAMMATION D'APPLICATIONS WEB\projetSession\partie02\WcfRESTGroupesClient\WcfRESTGroupesClient\obj\Debug\netcoreapp2.1\WcfRESTGroupesClient.RazorTargetAssemblyInfo.cs
+D:\BdeB\session04\A16-PROGRAMMATION D'APPLICATIONS WEB\projetSession\partie02\WcfRESTGroupesClient\WcfRESTGroupesClient\obj\Debug\netcoreapp2.1\WcfRESTGroupesClient.Views.pdb
+D:\BdeB\session04\A16-PROGRAMMATION D'APPLICATIONS WEB\projetSession\partie02\WcfRESTGroupesClient\WcfRESTGroupesClient\obj\Debug\netcoreapp2.1\WcfRESTGroupesClient.dll
+D:\BdeB\session04\A16-PROGRAMMATION D'APPLICATIONS WEB\projetSession\partie02\WcfRESTGroupesClient\WcfRESTGroupesClient\obj\Debug\netcoreapp2.1\WcfRESTGroupesClient.pdb
+D:\BdeB\session04\A16-PROGRAMMATION D'APPLICATIONS WEB\projetSession\partie02\WcfRESTGroupesClient\WcfRESTGroupesClient\obj\Debug\netcoreapp2.1\WcfRESTGroupesClient.csproj.CopyComplete
+D:\BdeB\session04\A16-PROGRAMMATION D'APPLICATIONS WEB\projetSession\partie02\WcfRESTGroupesClient\WcfRESTGroupesClient\obj\Debug\netcoreapp2.1\Razor\Views\Groupe\Index.g.cshtml.cs
+D:\BdeB\session04\A16-PROGRAMMATION D'APPLICATIONS WEB\projetSession\partie02\WcfRESTGroupesClient\WcfRESTGroupesClient\obj\Debug\netcoreapp2.1\Razor\Views\Groupe\Create.g.cshtml.cs
+D:\BdeB\session04\A16-PROGRAMMATION D'APPLICATIONS WEB\projetSession\partie02\WcfRESTGroupesClient\WcfRESTGroupesClient\obj\Debug\netcoreapp2.1\Razor\Views\Groupe\Adhesion.g.cshtml.cs
+D:\BdeB\session04\A16-PROGRAMMATION D'APPLICATIONS WEB\projetSession\partie02\WcfRESTGroupesClient\WcfRESTGroupesClient\obj\Debug\netcoreapp2.1\Razor\Views\Adhesion\Create.g.cshtml.cs
+D:\BdeB\session04\A16-PROGRAMMATION D'APPLICATIONS WEB\projetSession\option 02\WcfRESTGroupesClient\WcfRESTGroupesClient\bin\Debug\netcoreapp2.1\WcfRESTGroupesClient.deps.json
+D:\BdeB\session04\A16-PROGRAMMATION D'APPLICATIONS WEB\projetSession\option 02\WcfRESTGroupesClient\WcfRESTGroupesClient\bin\Debug\netcoreapp2.1\WcfRESTGroupesClient.runtimeconfig.json
+D:\BdeB\session04\A16-PROGRAMMATION D'APPLICATIONS WEB\projetSession\option 02\WcfRESTGroupesClient\WcfRESTGroupesClient\bin\Debug\netcoreapp2.1\WcfRESTGroupesClient.runtimeconfig.dev.json
+D:\BdeB\session04\A16-PROGRAMMATION D'APPLICATIONS WEB\projetSession\option 02\WcfRESTGroupesClient\WcfRESTGroupesClient\bin\Debug\netcoreapp2.1\WcfRESTGroupesClient.dll
+D:\BdeB\session04\A16-PROGRAMMATION D'APPLICATIONS WEB\projetSession\option 02\WcfRESTGroupesClient\WcfRESTGroupesClient\bin\Debug\netcoreapp2.1\WcfRESTGroupesClient.pdb
+D:\BdeB\session04\A16-PROGRAMMATION D'APPLICATIONS WEB\projetSession\option 02\WcfRESTGroupesClient\WcfRESTGroupesClient\bin\Debug\netcoreapp2.1\WcfRESTGroupesClient.Views.dll
+D:\BdeB\session04\A16-PROGRAMMATION D'APPLICATIONS WEB\projetSession\option 02\WcfRESTGroupesClient\WcfRESTGroupesClient\bin\Debug\netcoreapp2.1\WcfRESTGroupesClient.Views.pdb
+D:\BdeB\session04\A16-PROGRAMMATION D'APPLICATIONS WEB\projetSession\option 02\WcfRESTGroupesClient\WcfRESTGroupesClient\obj\Debug\netcoreapp2.1\WcfRESTGroupesClient.csprojAssemblyReference.cache
+D:\BdeB\session04\A16-PROGRAMMATION D'APPLICATIONS WEB\projetSession\option 02\WcfRESTGroupesClient\WcfRESTGroupesClient\obj\Debug\netcoreapp2.1\WcfRESTGroupesClient.csproj.CoreCompileInputs.cache
+D:\BdeB\session04\A16-PROGRAMMATION D'APPLICATIONS WEB\projetSession\option 02\WcfRESTGroupesClient\WcfRESTGroupesClient\obj\Debug\netcoreapp2.1\WcfRESTGroupesClient.RazorAssemblyInfo.cache
+D:\BdeB\session04\A16-PROGRAMMATION D'APPLICATIONS WEB\projetSession\option 02\WcfRESTGroupesClient\WcfRESTGroupesClient\obj\Debug\netcoreapp2.1\WcfRESTGroupesClient.RazorAssemblyInfo.cs
+D:\BdeB\session04\A16-PROGRAMMATION D'APPLICATIONS WEB\projetSession\option 02\WcfRESTGroupesClient\WcfRESTGroupesClient\obj\Debug\netcoreapp2.1\WcfRESTGroupesClient.AssemblyInfoInputs.cache
+D:\BdeB\session04\A16-PROGRAMMATION D'APPLICATIONS WEB\projetSession\option 02\WcfRESTGroupesClient\WcfRESTGroupesClient\obj\Debug\netcoreapp2.1\WcfRESTGroupesClient.AssemblyInfo.cs
+D:\BdeB\session04\A16-PROGRAMMATION D'APPLICATIONS WEB\projetSession\option 02\WcfRESTGroupesClient\WcfRESTGroupesClient\obj\Debug\netcoreapp2.1\WcfRESTGroupesClient.TagHelpers.input.cache
+D:\BdeB\session04\A16-PROGRAMMATION D'APPLICATIONS WEB\projetSession\option 02\WcfRESTGroupesClient\WcfRESTGroupesClient\obj\Debug\netcoreapp2.1\WcfRESTGroupesClient.TagHelpers.output.cache
+D:\BdeB\session04\A16-PROGRAMMATION D'APPLICATIONS WEB\projetSession\option 02\WcfRESTGroupesClient\WcfRESTGroupesClient\obj\Debug\netcoreapp2.1\WcfRESTGroupesClient.RazorCoreGenerate.cache
+D:\BdeB\session04\A16-PROGRAMMATION D'APPLICATIONS WEB\projetSession\option 02\WcfRESTGroupesClient\WcfRESTGroupesClient\obj\Debug\netcoreapp2.1\Razor\Views\Groupe\Adhesion.g.cshtml.cs
+D:\BdeB\session04\A16-PROGRAMMATION D'APPLICATIONS WEB\projetSession\option 02\WcfRESTGroupesClient\WcfRESTGroupesClient\obj\Debug\netcoreapp2.1\Razor\Views\Groupe\Create.g.cshtml.cs
+D:\BdeB\session04\A16-PROGRAMMATION D'APPLICATIONS WEB\projetSession\option 02\WcfRESTGroupesClient\WcfRESTGroupesClient\obj\Debug\netcoreapp2.1\Razor\Views\Groupe\Details.g.cshtml.cs
+D:\BdeB\session04\A16-PROGRAMMATION D'APPLICATIONS WEB\projetSession\option 02\WcfRESTGroupesClient\WcfRESTGroupesClient\obj\Debug\netcoreapp2.1\Razor\Views\Groupe\Index.g.cshtml.cs
+D:\BdeB\session04\A16-PROGRAMMATION D'APPLICATIONS WEB\projetSession\option 02\WcfRESTGroupesClient\WcfRESTGroupesClient\obj\Debug\netcoreapp2.1\Razor\Views\Home\About.g.cshtml.cs
+D:\BdeB\session04\A16-PROGRAMMATION D'APPLICATIONS WEB\projetSession\option 02\WcfRESTGroupesClient\WcfRESTGroupesClient\obj\Debug\netcoreapp2.1\Razor\Views\Home\Contact.g.cshtml.cs
+D:\BdeB\session04\A16-PROGRAMMATION D'APPLICATIONS WEB\projetSession\option 02\WcfRESTGroupesClient\WcfRESTGroupesClient\obj\Debug\netcoreapp2.1\Razor\Views\Home\Index.g.cshtml.cs
+D:\BdeB\session04\A16-PROGRAMMATION D'APPLICATIONS WEB\projetSession\option 02\WcfRESTGroupesClient\WcfRESTGroupesClient\obj\Debug\netcoreapp2.1\Razor\Views\Home\Privacy.g.cshtml.cs
+D:\BdeB\session04\A16-PROGRAMMATION D'APPLICATIONS WEB\projetSession\option 02\WcfRESTGroupesClient\WcfRESTGroupesClient\obj\Debug\netcoreapp2.1\Razor\Views\Shared\Error.g.cshtml.cs
+D:\BdeB\session04\A16-PROGRAMMATION D'APPLICATIONS WEB\projetSession\option 02\WcfRESTGroupesClient\WcfRESTGroupesClient\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_CookieConsentPartial.g.cshtml.cs
+D:\BdeB\session04\A16-PROGRAMMATION D'APPLICATIONS WEB\projetSession\option 02\WcfRESTGroupesClient\WcfRESTGroupesClient\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_Layout.g.cshtml.cs
+D:\BdeB\session04\A16-PROGRAMMATION D'APPLICATIONS WEB\projetSession\option 02\WcfRESTGroupesClient\WcfRESTGroupesClient\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_ValidationScriptsPartial.g.cshtml.cs
+D:\BdeB\session04\A16-PROGRAMMATION D'APPLICATIONS WEB\projetSession\option 02\WcfRESTGroupesClient\WcfRESTGroupesClient\obj\Debug\netcoreapp2.1\Razor\Views\_ViewImports.g.cshtml.cs
+D:\BdeB\session04\A16-PROGRAMMATION D'APPLICATIONS WEB\projetSession\option 02\WcfRESTGroupesClient\WcfRESTGroupesClient\obj\Debug\netcoreapp2.1\Razor\Views\_ViewStart.g.cshtml.cs
+D:\BdeB\session04\A16-PROGRAMMATION D'APPLICATIONS WEB\projetSession\option 02\WcfRESTGroupesClient\WcfRESTGroupesClient\obj\Debug\netcoreapp2.1\WcfRESTGroupesClient.RazorTargetAssemblyInfo.cache
+D:\BdeB\session04\A16-PROGRAMMATION D'APPLICATIONS WEB\projetSession\option 02\WcfRESTGroupesClient\WcfRESTGroupesClient\obj\Debug\netcoreapp2.1\WcfRESTGroupesClient.RazorTargetAssemblyInfo.cs
+D:\BdeB\session04\A16-PROGRAMMATION D'APPLICATIONS WEB\projetSession\option 02\WcfRESTGroupesClient\WcfRESTGroupesClient\obj\Debug\netcoreapp2.1\WcfRESTGroupesClient.Views.pdb
+D:\BdeB\session04\A16-PROGRAMMATION D'APPLICATIONS WEB\projetSession\option 02\WcfRESTGroupesClient\WcfRESTGroupesClient\obj\Debug\netcoreapp2.1\WcfRESTGroupesClient.dll
+D:\BdeB\session04\A16-PROGRAMMATION D'APPLICATIONS WEB\projetSession\option 02\WcfRESTGroupesClient\WcfRESTGroupesClient\obj\Debug\netcoreapp2.1\WcfRESTGroupesClient.pdb
+D:\BdeB\session04\A16-PROGRAMMATION D'APPLICATIONS WEB\projetSession\option 02\WcfRESTGroupesClient\WcfRESTGroupesClient\obj\Debug\netcoreapp2.1\WcfRESTGroupesClient.csproj.CopyComplete
+D:\BdeB\session04\A16-PROGRAMMATION D'APPLICATIONS WEB\projetSession\option 02\WcfRESTGroupesClient\WcfRESTGroupesClient\obj\Debug\netcoreapp2.1\Razor\Views\Groupe\Invitation.g.cshtml.cs
+D:\BdeB\session04\A16-PROGRAMMATION D'APPLICATIONS WEB\projetSession\option 02\WcfRESTGroupesClient\WcfRESTGroupesClient\obj\Debug\netcoreapp2.1\Razor\Views\Groupe\Login.g.cshtml.cs
+D:\BdeB\session04\A16-PROGRAMMATION D'APPLICATIONS WEB\projetSession\option 02\WcfRESTGroupesClient\WcfRESTGroupesClient\obj\Debug\netcoreapp2.1\Razor\Views\Groupe\TraiterDemande.g.cshtml.cs
+D:\BdeB\session04\A16-PROGRAMMATION D'APPLICATIONS WEB\projetSession\option 02\WcfRESTGroupesClient\WcfRESTGroupesClient\obj\Debug\netcoreapp2.1\Razor\Views\Groupe\Inscription.g.cshtml.cs
+D:\BdeB\session04\A16-PROGRAMMATION D'APPLICATIONS WEB\projetSession\option 02\WcfRESTGroupesClient\WcfRESTGroupesClient\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_MainMenu.g.cshtml.cs
+D:\BdeB\session04\A16-PROGRAMMATION D'APPLICATIONS WEB\projetSession\option 02\WcfRESTGroupesClient\WcfRESTGroupesClient\obj\Debug\netcoreapp2.1\Razor\Views\Shared\Layout2.g.cshtml.cs
+D:\BdeB\session04\A16-PROGRAMMATION D'APPLICATIONS WEB\projetSession\option 02\WcfRESTGroupesClient\WcfRESTGroupesClient\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_LayoutAdminLTE.g.cshtml.cs
+D:\BdeB\session04\A16-PROGRAMMATION D'APPLICATIONS WEB\projetSession\option 02\WcfRESTGroupesClient\WcfRESTGroupesClient\obj\Debug\netcoreapp2.1\Razor\Views\Groupe\Activite.g.cshtml.cs
+D:\BdeB\session04\A16-PROGRAMMATION D'APPLICATIONS WEB\projetSession\option 02\WcfRESTGroupesClient\WcfRESTGroupesClient\obj\Debug\netcoreapp2.1\Razor\Views\Groupe\DeleteActivite.g.cshtml.cs
+D:\BdeB\session04\A16-PROGRAMMATION D'APPLICATIONS WEB\projetSession\option 02\WcfRESTGroupesClient\WcfRESTGroupesClient\obj\Debug\netcoreapp2.1\Razor\Views\Shared\SideMenu.g.cshtml.cs
+D:\BdeB\session04\A16-PROGRAMMATION D'APPLICATIONS WEB\projetSession\option 02\WcfRESTGroupesClient\WcfRESTGroupesClient\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_rightMenuPartial.g.cshtml.cs

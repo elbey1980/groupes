@@ -1,0 +1,39 @@
+﻿@model WcfRESTGroupesClient.Models.Personne
+
+@{
+    ViewData["Title"] = "Login";
+}
+
+<h2>Login</h2>
+
+<h4></h4>
+<hr />
+<div position="center" class="row">
+    <div class="col-md-4">
+        <form asp-action="Login">
+            <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+            <div class="form-group">
+                <label asp-for="courriel" class="control-label"></label>
+                <input asp-for="courriel" class="form-control" />
+                <span asp-validation-for="courriel" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="passWord" class="control-label"></label>
+                <input asp-for="passWord" class="form-control" type="password"/>
+                <span asp-validation-for="passWord" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+
+                <input type="submit" value="Create" class="btn btn-default" />
+            </div>
+        </form>
+    </div>
+</div>
+<a asp-controller="Groupe" asp-action="Inscription" class="btn btn-primary">Inscription </a><br>
+@*<a asp-controller="Groupe" asp-action="Inscription">Inscription </a><br>*@
+
+
+
+@section Scripts {
+    @{await Html.RenderPartialAsync("_ValidationScriptsPartial");}
+}

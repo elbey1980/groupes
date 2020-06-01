@@ -1,0 +1,25 @@
+﻿@{
+    ViewData["Title"] = "Home Page";
+}
+
+<h2 align="center">Gestion des Groupes</h2>
+
+<style type="text/css">
+    div div div div:hover {
+        border-color: #000;
+        background-color: aqua;
+    }
+</style>
+<div>
+   
+    <div style="background-color:darkgray; height:30px; width: 120px;"> <div style="background-color:darkgray; height:30px; width: 125px;"> <a asp-controller="Groupe" asp-action="Index" class=" aclass">Liste Groupe </a> </div></div>
+    <div style="background-color:darkgray; height:30px; width: 120px;"> <div style="background-color:darkgray; height:30px; width: 125px;"> <a asp-controller="Groupe" asp-action="Create" class=" aclass">Ajouter Groupe </a> </div></div>
+    <div style="background-color:darkgray; height:30px; width: 120px;"> <div style="background-color:darkgray; height:30px; width: 125px;"> <a asp-controller="Groupe" asp-action="Adhesion" class=" aclass">Demande Adhesion </a> </div></div>
+    <div style="background-color:darkgray; height:30px; width: 120px;"> <div style="background-color:darkgray; height:30px; width: 125px;"> <a asp-controller="Groupe" asp-action="Invitation" class=" aclass">Envoyer Invitation </a> </div></div>
+    <div style="background-color:darkgray; height:30px; width: 120px;"> <div style="background-color:darkgray; height:30px; width: 125px;"> <a asp-controller="Groupe" asp-action="TraiterDemande" class=" aclass">Traiter Demande </a> </div></div>
+    <div style="background-color:darkgray; height:30px; width: 120px;"> <div style="background-color:darkgray; height:30px; width: 125px;"> <a asp-controller="Groupe" asp-action="Activite" class=" aclass">Ajouter Activite </a> </div></div>
+    <div style="background-color:darkgray; height:30px; width: 120px;"> <div style="background-color:darkgray; height:30px; width: 125px;"> <a asp-controller="Groupe" asp-action="DeleteActivite" class=" aclass">Supprimer Activite </a> </div></div>
+    <div style="background-color:darkgray; height:30px; width: 120px;"> <div style="background-color:darkgray; height:30px; width: 125px;"> <a href="~/html/listeActivites.html" class=" aclass">Liste activites </a> </div></div>
+    <div style="background-color:darkgray; height:30px; width: 120px;"> <div style="background-color:darkgray; height:30px; width: 125px;"> <a asp-controller="Groupe" asp-action="Login" class=" aclass">Deconnexion </a> </div></div>
+
+</div>

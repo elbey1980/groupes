@@ -1,0 +1,30 @@
+<Project Sdk="Microsoft.NET.Sdk.Web">
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp2.1</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Compile Remove="Views\Activites\**" />
+    <Compile Remove="Views\Personne\**" />
+    <Content Remove="Views\Activites\**" />
+    <Content Remove="Views\Personne\**" />
+    <EmbeddedResource Remove="Views\Activites\**" />
+    <EmbeddedResource Remove="Views\Personne\**" />
+    <None Remove="Views\Activites\**" />
+    <None Remove="Views\Personne\**" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Microsoft.AspNetCore.App" />
+    <PackageReference Include="Microsoft.AspNetCore.Razor.Design" Version="2.1.2" PrivateAssets="All" />
+    <PackageReference Include="Microsoft.VisualStudio.Web.CodeGeneration.Design" Version="2.1.9" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Content Update="Views\Shared\_rightMenuPartial.cshtml">
+      <Pack>$(IncludeRazorContentInPack)</Pack>
+    </Content>
+  </ItemGroup>
+
+</Project>

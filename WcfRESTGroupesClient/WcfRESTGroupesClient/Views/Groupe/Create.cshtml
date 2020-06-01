@@ -1,0 +1,39 @@
+﻿@model WcfRESTGroupesClient.Models.Groupe
+
+@{
+    ViewData["Title"] = "Create";
+}
+
+<h2 align="center">Ajouter un Groupe</h2>
+
+
+<hr />
+<div class="row">
+    <div class="col-md-4">
+        <form asp-action="Create">
+            <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+            <div class="form-group">
+                <label asp-for="nomGroupe" class="control-label"></label>
+                <input asp-for="nomGroupe" class="form-control" />
+                <span asp-validation-for="nomGroupe" class="text-danger"></span>
+            </div>
+            @*<div class="form-group">
+                <label asp-for="admin" class="control-label"></label>
+                <input asp-for="admin" class="form-control" />
+                <span asp-validation-for="admin" class="text-danger"></span>
+            </div>*@
+            <div class="form-group">
+                <input type="submit" value="Create" class="btn btn-default" />
+            </div>
+        </form>
+    </div>
+</div>
+
+<div>
+    <a asp-controller="Home" asp-action="Index" class="btn btn-primary">Retour au menu principal </a><br>
+    @*<a asp-action="Index">Back to List</a>*@
+</div>
+
+@section Scripts {
+    @{await Html.RenderPartialAsync("_ValidationScriptsPartial");}
+}

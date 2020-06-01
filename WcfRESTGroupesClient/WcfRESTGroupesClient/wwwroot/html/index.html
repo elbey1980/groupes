@@ -1,0 +1,95 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN">
+<html>
+<head>
+<title>Client REST - Exemple</title>
+<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
+<style>
+	table {
+		border : 2px blue solid;
+		border-collapse : collapse;
+	}
+	th,td {
+		border : 1px solid blue;
+	}
+	th {
+		background-color : darkblue;
+		color : white;
+	}
+</style>
+<script language="javascript">
+var xho;
+function go()
+{
+  var url = "http://localhost:52925/api/activites";
+  //var url = "http://localhost:52925/api/activites"+path;
+    xho = new XMLHttpRequest();
+	xho.onreadystatechange = traiterReponse;
+	try
+	{
+		xho.open("GET",url,true);
+	}
+	catch (e)
+	{
+	  alert(e);
+	}
+	xho.send(null);
+}
+
+function traiterReponse()
+{
+  if (xho.readyState == 4) //complété
+    if (xho.status == 200)  //réponse OK
+	{
+		var s = xho.responseText;
+		alert(s);
+		var str = "";
+		var i,j;
+		var element;
+        
+		try {
+			var rep = JSON.parse(s);
+			if (Array.isArray(rep)) {
+				if (rep.length>0) {
+					var attributs = Object.keys(rep[0]);
+					str = "<table><tr>";
+					for (i=0;i<attributs.length;i++) {
+						str += "<th>"+attributs[i]+"</th>";
+					}
+					str += "</tr>";
+					for (i=0;i<rep.length;i++) {
+						element = rep[i];
+						str += "<tr>";
+						for (j=0;j<attributs.length;j++) {
+							str += "<td>"+element[attributs[j]]+"</td>";
+						}	
+						str += "</tr>";
+					}
+					
+					str += "</table>";
+					document.getElementById("reponse").innerHTML = "REPONSE : <br />" + str;
+				}
+				else {
+					document.getElementById("reponse").innerHTML = "Liste vide ";
+				}
+			}
+			else {
+				document.getElementById("reponse").innerHTML = "REPONSE du SERVICE : "+rep;
+			}
+		} catch (e) {
+			document.getElementById("reponse").innerHTML = "ERRREPONSE du SERVICE : "+e;
+		}
+	}
+	else
+	{
+	  alert("Problème : "+xho.status+" - "+xho.statusText);
+	}
+}
+</script>
+</head>
+
+<body bgcolor="#cccccc">
+<button onclick="go()">Obtenir le nombre de produits</button>
+<button onclick="go()">Obtenir la liste des produits</button>
+<span id="reponse"></span>
+</body>
+</html>
